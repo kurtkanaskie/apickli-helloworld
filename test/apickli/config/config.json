@@ -1,9 +1,9 @@
 {
 	"helloworld": {
-		"domain": "sage-qa.apigee.net",
+		"domain": "ORG-ENV.apigee.net",
 		"basepath": "/helloworld/v1",
-		"clientId": "Uvz7ahhlaer3zhOp25BGmAzSQVEbsJNw",
-		"clientSecret": "LOoE2q6enoqlTuBT",
+		"clientId": "CLIENT-ID",
+		"clientSecret": "CLIENT-SECRET",
 		"merchantId": "1234567890",
 		"merchantKey": "12345678901234567890"
 	}
