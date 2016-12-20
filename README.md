@@ -6,7 +6,7 @@
 
 and to run cucumber.js via a command
 
-* npm install -g
+* npm install -g cucumber.js
 
 
 ####To Run
