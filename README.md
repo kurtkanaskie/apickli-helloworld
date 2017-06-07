@@ -1,6 +1,6 @@
-###Apickli Demo
+### Apickli Demo
 
-####Install
+#### Install
 
 * npm install
 
@@ -9,14 +9,14 @@ and to run cucumber.js via a command
 * npm install -g cucumber
 
 
-####To Run
+#### To Run
 `./node_modules/cucumber/bin/cucumber.js test/apickli/features --tags @health`
 
 or
 
 `cucumber.js test/apickli/features --tags @health`
 
-####Test Breakdown
+#### Test Breakdown
 Features are tagged for contextual tests with the following tags:
 ```
 @intg - Integration tests
@@ -40,7 +40,7 @@ Features are tagged for contextual tests with the following tags:
 @table - Table example
 ```
 
-####File Structure
+#### File Structure
 ```
 apickli-helloworld
 ├── README.md
