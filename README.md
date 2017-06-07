@@ -10,11 +10,11 @@ and to run cucumber.js via a command
 
 
 ####To Run
-```./node_modules/cucumber/bin/cucumber.js test/apickli/features --tags @health```
+`./node_modules/cucumber/bin/cucumber.js test/apickli/features --tags @health`
 
 or
 
-```cucumber.js test/apickli/features --tags @health```
+`cucumber.js test/apickli/features --tags @health`
 
 ####Test Breakdown
 Features are tagged for contextual tests with the following tags:
